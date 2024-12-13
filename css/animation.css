@@ -3,7 +3,7 @@ body {
   background: black;
 }
 
-div {
+.Animate div {
   background: gray;
   position: absolute;
   left: 48%;
