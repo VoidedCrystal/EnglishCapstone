@@ -1,0 +1,23 @@
+/* CSS Document */
+body {
+	align-items: center;
+	align:left;
+}
+
+img {
+	float:right;
+	margin:20px;
+	align: top;
+	border: thick;
+	border-color: white;
+}
+
+#AlignPicture {
+	align-content: center;
+	display:inline-flex;
+	position:absolute;
+	top:50%;
+	left:50%;
+	margin-top:-50px; /* this is half the height of your div*/  
+	margin-left:-100px; /*this is half of width of your div*/
+}

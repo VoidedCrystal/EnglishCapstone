@@ -7,13 +7,14 @@
 	padding-right: 15px;
 	padding-left: 15px;
 	padding-bottom: 15px;
+	border-radius: 20px;
+	
 	
 }
 .navdiv{
 	display: flex;
 	align-items: center;
 	justify-content: space-between;
-	
 }
 
 li{
@@ -22,20 +23,20 @@ li{
 	
 }
 li a{
-	color: #CB22FF; 
+	color: orange; 
 	font-size: 20px; 
 	font-weight: bold; 
 	margin-right: 25px;
 	
 }
 button{
-	background: White; 
+	background: #F4F1F1; 
 	margin-left: 10px;
 	border-radius: 10px;
 	padding: 10px
 }
 button a{
-	color: #CB22FF;
+	color: orange;
 	font-weight: bold;
 	font-size: 20px;
 }
