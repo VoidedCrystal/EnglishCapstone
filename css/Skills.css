@@ -1,0 +1,14 @@
+/* CSS Document */
+div {
+	display: inline-block;
+}
+
+#Meta {
+	float:right;
+	margin-right: 50px;
+}
+
+#Critical {
+	float:left;
+	margin-left: 50px;
+}
